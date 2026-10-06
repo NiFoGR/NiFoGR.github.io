@@ -33,10 +33,10 @@
   --w-bold: 700;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
 
-  --r-card: 14px;
-  --r-ctrl: 10px;
-  --r-chip: 4px;
-  --r-pill: 999px;
+  --r-card: 0;
+  --r-ctrl: 0;
+  --r-chip: 0;
+  --r-pill: 0;
   --pad: 16px;
 
   color-scheme: dark;
